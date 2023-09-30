@@ -1,0 +1,67 @@
+/* Ojas de Estilo 
+Selector{
+    Estilo
+}
+Tipos de Selectores:
+1- Etiqueta
+2- .Clase
+3- #ID
+*/
+
+body{
+    background-color: pink;
+}
+
+.fondo_verde{
+    background-color: green;
+}
+
+h2{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Principal{
+background-color: rgb(100, 153, 233);
+width: 400px;
+height: 50px;
+display: inline-block;
+}
+
+.perro{
+    width: 200px;
+    
+}
+
+button{
+    background-color: blueviolet;
+    display: block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#boton_gris{
+    background-color: gray;
+}
+
+.texto2{
+    width: 25%;
+    height: 40vh;
+}
+
+.bordeazul{
+    border-color: blue;
+    border-width: 2px;
+    border-style: dotted;
+}
+
+#texto_unico{
+    background-image: url(./Imagenes/taylor-kopel-WX4i1Jq_o0Y-unsplash.jpg);
+}
+
+ul{
+    background-color: chocolate;
+    width: 500px;
+}
+li{
+    background-color: chartreuse;
+    width: 50%;
+}
